@@ -1,0 +1,9 @@
+References,Value,Footprint,digikey,Quantity
+C1,10uF,CP_Radial_D10.0mm_P3.50mm,1189-2294-ND,1
+R1,RES 5K ,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,MFP25SBBE52-5K-ND,1
+R2,33K,R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal,13-CFR-25JR-52-33KCT-ND,1
+D1,1N4007,D_5W_P10.16mm_Horizontal,1N4007GDICT-ND,1
+gate,MOSFET,TO-220-3_Horizontal_TabDown,IRLZ44NPBF-ND,1
+Q1,  FLAME SENSOR,TO-39-3,399-USEQFCSA455100-ND,1
+RV1,TRIMMER ,"Potentiometer_ACP_CA6-H2,5_Horizontal",3362P-502LF-ND,1
+"J1, J1, J1, J1, J1",282837-2,TerminalBlock_bornier-2_P5.08mm,A113320-ND,5
