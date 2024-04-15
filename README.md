@@ -10,6 +10,9 @@ SafeMiner is a hardware design aimed at creating a safety system for Bitcoin min
   <img src="https://github.com/BeeEvolved/SafeMiner/blob/main/images/SafeMinerImage1%20(2).jpg" alt="SafeMinerLogo">
 </p>
 
+### Early detection and prevention
+The primary goal is to detect an event at the spark, arc, thermal spike or smoke phase before it can become true blazing fire. It’s obviously going to be a case-by-case scenario, but cutting the power certainly could prevent unpleasant outcomes. The wording of “fire detection” of the SafeMiner might be a little confusing for some, but the overall mission is to detect the earliest catalyst of a fire, sudden thermal spike, sparks, or arcs on a hashboard or Bitcoin miner to mitigate losses or damage.
+
 ### SafeMiner hardware  Design
 
 SafeMiner is a hardware design project aims at creating a safety system for Bitcoin mining hardware. The design incorporates fire detection and an automatic shutdown mechanism to ensure the safety of miners and mining operations.
