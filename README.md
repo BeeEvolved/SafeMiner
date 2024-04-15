@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/BeeEvolved/SafeMiner/blob/main/images/SafeMinerLogo.png" alt="SafeMinerLogo">
+  <img src="https://github.com/BeeEvolved/SafeMiner/blob/main/images/SafeMinerLogoSmall.png" alt="SafeMinerLogo">
 </p>
 
 
