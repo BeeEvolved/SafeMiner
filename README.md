@@ -53,6 +53,6 @@ Thank you for your understanding and patience as we work to ensure the safety an
 
 ## Support this project?
 
-It's always appreciated to receive support for purchasing PCB boards and prototype parts. If you'd like to contribute to this project and help accelerate the effort, you can do so via Bitcoin: 1P6gz8bggna5s93th9CxNommxcNivN2bPp
+It's always appreciated to receive support for purchasing PCB boards and prototype parts. If you'd like to contribute to this project and help accelerate the effort, you can do so via Bitcoin: 1P6gz8bggna5s93th9CxNommxcNivN2bPp or  GitHub Sponsorship
 
 
