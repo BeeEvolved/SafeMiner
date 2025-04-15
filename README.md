@@ -50,9 +50,3 @@ The following components are used in the SafeMiner PCB design:
 We are currently in the process of ordering PCBs/parts and will conduct extensive testing upon their arrival. The results of our testing will be published to this repository, providing transparency and ensuring the design's suitability for production use.
 
 Thank you for your understanding and patience as we work to ensure the safety and reliability of these designs.
-
-## Support this project?
-
-It's always appreciated to receive support for purchasing PCB boards and prototype parts. If you'd like to contribute to this project and help accelerate the effort, you can do so via Bitcoin: 1P6gz8bggna5s93th9CxNommxcNivN2bPp or  GitHub Sponsorship
-
-
